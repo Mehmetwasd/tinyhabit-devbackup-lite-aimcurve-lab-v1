@@ -4,3 +4,5 @@ TinyHabit is a lightweight, offline habit tracker designed for simplicity.  / De
 Download the packaged version on itch.io: https://mehmetwasd.itch.io/tinyhabit-simple-offline-habit-tracker
 Download the packaged version on itch.io: https://mehmetwasd.itch.io/devbackup-lite
 Download the packaged version on itch.io: https://mehmetwasd.itch.io/aimcurve-lab-v1
+
+The itch.io version includes a ready-to-use build without manual setup.
